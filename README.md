@@ -8,4 +8,4 @@ Features:
 * Saves logged keystrokes in a file named key_log.txt.
 * Continues to run and capture keystrokes until the Escape key (Esc) is pressed or the program is interrupted (Ctrl+C in the terminal).
 
-* Note *: Ethical considerations and permissions are crucial for projects involving keyloggers.
+__Note__: Ethical considerations and permissions are crucial for projects involving keyloggers.
